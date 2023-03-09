@@ -1,0 +1,24 @@
+body {
+    background-color: aqua;
+}
+
+h1 {
+    text-align: center;
+}
+
+.tabel {
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+.tabel th,
+.tabel td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+footer {
+    margin-top: 25%;
+    text-align: center;
+    /* margin: auto 0; */
+}
